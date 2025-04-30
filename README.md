@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @minamirza
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi there!
 
-<!---
-minamirza/minamirza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Mina – a frontend developer passionate about clean UI, smooth UX, and writing code that actually works (on the second try 😅).
+
+## 🔧 Tech Stack:
+- HTML | CSS | JavaScript
+- React (learning and building!)
+- Git & GitHub
+
+## 💡 What I’m up to:
+- Improving my frontend skills
+- Building cool stuff with modern tools
+- Always learning — because bugs don't fix themselves... yet
+
+> Work in progress – both me and my projects 🚧
+
+📂 Explore my pinned repos to see what I’m working on!
