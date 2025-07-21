@@ -25,9 +25,3 @@ If you're working on exciting frontend projects, open-source ideas or just want 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/minamirzeva/)
 - 📧 [Email](mailto:minamirzayeva000@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=minamirza&color=blue)
-![Status](https://img.shields.io/badge/status-learning-yellow)
-![GitHub followers](https://img.shields.io/github/followers/minamirza?style=social)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minamirza&layout=compact&theme=radical)
