@@ -15,3 +15,8 @@ I'm Mina – a frontend developer passionate about clean UI, smooth UX, and writ
 > Work in progress – both me and my projects 🚧
 
 📂 Explore my pinned repos to see what I’m working on!
+
+## 🔗 Contact With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/minamirzeva/)
+- 📧 [Email](mailto:minamirzayeva000@gmail.com)
